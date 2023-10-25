@@ -1,6 +1,6 @@
 package com.cezarys8.template.user;
 
-import com.cezarys8.template.auth.token.Token;
+import com.cezarys8.template.token.Token;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;

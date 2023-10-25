@@ -1,4 +1,4 @@
-package com.cezarys8.template.auth.token;
+package com.cezarys8.template.token;
 
 import com.cezarys8.template.user.User;
 import jakarta.persistence.*;
